@@ -1,0 +1,16 @@
+{
+	"files.associations": {
+		"*.c": "c",
+		"*.h": "c",
+		"*.cc": "cpp",
+		"*.hh": "cpp",
+		"*.cpp": "cpp",
+		"*.hpp": "cpp",
+		"*.tpp": "cpp",
+		"*.cxx": "cpp",
+		"*.hxx": "cpp",
+		"*.txx": "cpp",
+		"iosfwd": "cpp",
+		"stdexcept": "cpp"
+	}
+}
